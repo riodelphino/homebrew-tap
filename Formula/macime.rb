@@ -8,7 +8,7 @@ class Macime < Formula
   depends_on :macos
 
   def install
-    system "swift", "build", "-c", "release"
+    system "swift", "build", "-c", "release", "--disable-sandbox"
     bin.install ".build/release/macime"
   end
 end
