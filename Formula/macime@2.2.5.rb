@@ -1,8 +1,8 @@
 class Macime < Formula
   desc "Fast macOS IME switcher CLI"
   homepage "https://github.com/riodelphino/macime"
-  url "https://github.com/riodelphino/macime/archive/refs/tags/v2.2.5.tar.gz"
-  sha256 "6b6ccd2b408ac44453a6a785f096adf459d8ca1aa0b63e572f06a08bb7842776"
+  url "https://github.com/riodelphino/macime/archive/refs/tags/v2.2.4.tar.gz"
+  sha256 "102cef378ed3f87bd915040dee0c6557fbdc160f4932a362ad2a4c8374bf108b"
   license "MIT"
   depends_on :macos
 
