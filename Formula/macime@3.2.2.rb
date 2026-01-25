@@ -16,6 +16,7 @@ class Macime < Formula
   service do
     run [opt_bin/"macimed"]
     keep_alive true
+    run_at_load false
     log_path var/"log/riodelphino.macimed.log"
     error_log_path var/"log/riodelphino.macimed.err"
   end 
