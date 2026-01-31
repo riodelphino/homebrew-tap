@@ -1,4 +1,4 @@
-class Macime < Formula
+class MacimeAT224 < Formula
   desc "Fast macOS IME switcher CLI"
   homepage "https://github.com/riodelphino/macime"
   url "https://github.com/riodelphino/macime/archive/refs/tags/v2.2.4.tar.gz"
