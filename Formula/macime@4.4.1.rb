@@ -1,4 +1,4 @@
-class Macime < Formula
+class MacimeAt441 < Formula
   desc "Fast IME switcher for macOS"
   homepage "https://github.com/riodelphino/macime"
   license "MIT"
